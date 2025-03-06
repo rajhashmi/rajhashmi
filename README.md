@@ -11,6 +11,6 @@
 - labyrintht [Link](https://shahidhashmi.itch.io/labyrinth?secret=Sdz4xxNEiVUYhwnKdLrBFi6CEw) - 2D Game
 - Space Shooting [Link](https://shahidhashmi.itch.io/space-shooting-2d-pro?secret=GOJt5m51vOoNYjH4VbM4ncbMk) - 2D Game
 - The Stack [Link](https://shahidhashmi.itch.io/the-stack?secret=qMcjhDyOBbY5xK2WXn1vXKXdodA) - 2D Game
-- Zombie Game [Link](https://shahidhashmi.itch.io/zombie-game?secret=RaCWHqfKveht0SBQVMpCSBKmsF8) - 2D Game
+- Zombie Game [Link](https://shahidhashmi.itch.io/zombie-save?secret=A8OjpY0aytWq2htodXoUgIsyvdY) - 2D Game
 
 
